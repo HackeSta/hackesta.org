@@ -1,7 +1,7 @@
 let config = {
-    title:"",
-    description:"",
-    url:"",
+    title:"Hackesta",
+    description:"Hackesta - Providers of reliable and cost-efficient digital services. Based in Srinagar, Jammu & Kashmir, India. Regular contributors and supporters of Free & Open Source Community. Static Websites, based on pure HTML5 CSS3 JavaScript, WhatsApp Sticker Apps, Portfolio Websites, etc. Social Media Page Manager",
+    url:"https://hackesta.org",
 }
 export default {
     title:config.title,

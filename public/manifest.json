@@ -1,13 +1,13 @@
 {
-    "short_name": "",
-    "url": "",
-    "description": "",
-    "background_color": "",
+    "short_name": "Hackesta",
+    "url": "https://hackesta.org",
+    "description": "Hackesta - Providers of reliable and cost-efficient digital services. Based in Srinagar, Jammu & Kashmir, India. Regular contributors and supporters of Free & Open Source Community. Static Websites, based on pure HTML5 CSS3 JavaScript, WhatsApp Sticker Apps, Portfolio Websites, etc. Social Media Page Manager",
+    "background_color": "#363636",
     "display": "standalone",
     "scope": "/",
     "start_url": "/?utm_source=pwa",
-    "theme_color": "",
-    "name": "",
+    "theme_color": "#1f8633",
+    "name": "Hackesta",
     "icons": [
       {
         "src": "/favicons/android-chrome-192x192.png",

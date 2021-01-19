@@ -6,6 +6,7 @@ body {
   padding: 0;
   margin: 0;
   height: 100%;
+  font-family: "Open Sans";
 }
 #__next {
   height: 100%;
@@ -45,6 +46,15 @@ a {
   margin-top: $navbar-height;
   scroll-margin-top: $navbar-height;
 }
+.card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.card-content {
+  margin-bottom: auto;
+}
 .mt-a {
   margin-top: auto;
 }
@@ -64,4 +74,7 @@ a {
 .my-a{
   margin-top: auto;
   margin-bottom: auto;
+}
+img.is-rounded {
+  border-radius: 50%;
 }
