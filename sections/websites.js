@@ -53,6 +53,11 @@ const WEBSITES = [
     pwa: true
   },
   {
+    name: "Kashmir Type Hunt",
+    url: "https://kashmirtypehunt.com",
+    image: "kashmirtypehunt.png",
+  },
+  {
     name: "Blog - CovidKashmir",
     url: "https://blog.covidkashmir.org",
     image: "blog-covidkashmir.png",
